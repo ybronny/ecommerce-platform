@@ -1,0 +1,12 @@
+.app {
+    background-color: rgb(16, 172, 219); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100;
+    display: grid;
+    color: rgb(46, 45, 45);
+  }
+
+  
+
