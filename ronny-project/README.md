@@ -32,3 +32,6 @@ git clone https://github.com/yourusername/ecommerce-platform.git
 cd ecommerce-platform
 
 Enjoy the most affordable Mobile Shop
+
+## video
+https://photos.app.goo.gl/yqgq9keLzRLy4wJZ9
