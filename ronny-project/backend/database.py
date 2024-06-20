@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine, MetaData
 from database import Database
 
-DATABASE_URL = "sqlite:///./test.db"
+DATABASE_URL = "sqlite:///./electronics_store.db"
 
 database = Database(DATABASE_URL)
 metadata = MetaData()
